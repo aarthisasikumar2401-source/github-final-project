@@ -1,7 +1,7 @@
-curl.exe -s https://api.github.com/repos/aarthisasikumar2401-source/mcino-Introduction-to-Git-and-GitHub
+curl.exe -s https://api.github.com/repos/aarthisasikumar2401-source/github-final-project
 
-"full_name": "aarthisasikumar2401-source/mcino-Introduction-to-Git-and-GitHub",
+"full_name": "aarthisasikumar2401-source/github-final-project",
 "fork": true,
 "parent": {
-    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+"full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
 }
